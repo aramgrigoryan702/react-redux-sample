@@ -1,8 +1,5 @@
 React + Redux codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the RealWorld spec and API.
 
-Getting started
-You can view a live demo over at https://react-redux.realworld.io/
-
 To get the frontend running locally:
 
 Clone this repo
